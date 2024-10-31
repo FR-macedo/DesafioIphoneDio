@@ -21,6 +21,7 @@
 
 ## UML do projeto
 
+```mermaid
 
     classDiagram
 
@@ -63,7 +64,7 @@
     Iphone ..|> ReprodutorMusical
     Iphone ..|> AparelhoTelefonico
     Iphone ..|> NavegadorInternet
-
+```
 
 
 ## Como copiar o projeto
