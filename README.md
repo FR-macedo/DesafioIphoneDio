@@ -65,6 +65,7 @@
     Iphone ..|> NavegadorInternet
 
 
+
 ## Como copiar o projeto
 
 Use o setup.sh que está na pasta raiz do repo e rode esse comando no gitbash dentro do seu diretório para o projeto:
